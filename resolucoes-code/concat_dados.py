@@ -1,4 +1,3 @@
-
 # Solicita a primeira entrada do usuário
 primeira_entrada = input("Digite a primeira string: ")
 
