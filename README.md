@@ -1,8 +1,5 @@
 # Resolvendo Códigos em Python com o Github com o ChatGpt
 
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
-
 ## 1 - Concatenando Dados 🐾
 
 Descrição:
